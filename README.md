@@ -5,48 +5,39 @@ O projeto consiste na criação de um **dashboard interativo no Excel** para con
 
 ## 📑 Etapas
 
-- `Criação da aba BASE DE DADOS`:  
+- `Análise da aba BASE DE DADOS`:  
 Esta aba contém o registro das vendas realizadas, com informações como:
   - Data da venda
   - Nome do cliente
-  - Região
+  - Tipo de plano de assinatura
   - Quantidade vendida
-  - Valor da venda
+  - Renovação automática
 
 - `Desenvolvimento do DASHBOARD`:  
 O dashboard foi projetado para exibir de forma clara e dinâmica os principais indicadores, incluindo:
   - Total de vendas no período
-  - Gráficos de evolução de vendas por mês
-  - Participação de cada região no volume total
-  - Comparativo entre metas e resultados
-
-*(Imagem ilustrativa do dashboard)*  
-![image](https://github.com/user-attachments/assets/SEU-LINK-AQUI.png)
+  - Gráficos de total de vendas por período
+  - Gráficos do total de renovações altomáticas
+  - Total de venda de assinatura de planos de jogos
 
 ## 🖩 Fórmulas/Funções Utilizadas
 
 - `Tabelas Dinâmicas`:  
-Utilizadas para consolidar os dados brutos e permitir a análise dinâmica por período, região e produto.
+Utilizadas para consolidar os dados brutos e permitir a análise dinâmica por período, plano e produto.
 
 - `Segmentação de Dados`:  
-Inserida no dashboard para facilitar o filtro dos dados por ano, mês e região, tornando a navegação mais intuitiva.
+Inserida no dashboard para facilitar o filtro dos dados tornando a navegação mais intuitiva.
 
 - `Gráficos Dinâmicos`:  
-Gráficos conectados às tabelas dinâmicas, permitindo atualização automática conforme os filtros são aplicados. Foram usados gráficos de colunas, linhas e pizza para melhor visualização dos dados.
+Gráficos conectados às tabelas dinâmicas, permitindo atualização automática conforme os filtros são aplicados. Foram usados gráficos de barra para melhor visualização dos dados.
 
-- `Validação de Dados`:  
-Aplicada na base para garantir consistência na entrada das informações, como datas e nomes das regiões.
-
-- `Formatação Condicional`:  
-Usada para destacar valores acima ou abaixo da meta, com cores indicativas para rápida identificação de alertas ou destaques.
-
-- `Proteção de Planilha`:  
-A planilha foi protegida para evitar alterações acidentais nas fórmulas e nas configurações do dashboard. As células destinadas ao preenchimento de dados permanecem desbloqueadas.
+- `Filtro Dinâmico`:  
+Usado para uma selecionabilidade interativa e prática.
 
 ## 🧰 Ferramentas e Aplicativos Utilizados
 
 - ``Excel``  
-- ``ChatGPT``  
+- ``JC Picker``  
 
 ## 👨‍💻 Desenvolvedores
 
