@@ -1,7 +1,7 @@
 # 📊 Dashboard de Vendas no Excel
 
 ## 🧾 Descrição do Projeto  
-O projeto consiste na criação de um **dashboard interativo no Excel** para controle e análise das vendas do **Xbox**. A ferramenta foi desenvolvida para facilitar o acompanhamento de indicadores de vendas, metas e desempenho de forma prática e visual.
+O projeto consiste na criação de um **dashboard interativo no Excel** para controle e análise das vendas do **Xbox**. O principal objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ## 📑 Etapas
 
