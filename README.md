@@ -5,7 +5,7 @@ O projeto consiste na criação de um **dashboard interativo no Excel** para con
 
 ## 📑 Etapas
 
-- `Análise da aba BASE DE DADOS`:  
+- `Análise da aba BASEs`:  
 Esta aba contém o registro das vendas realizadas, com informações como:
   - Data da venda
   - Nome do cliente
